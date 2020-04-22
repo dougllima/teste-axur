@@ -14,9 +14,12 @@ browser do usuário.
 Sua aplicação deve ser escrita em React, Vue.js ou Angular. O processo de
 construção do ​ _bundle_ deve ser feito usando Webpack. Para a entrega, alguns scripts
 devem estar disponíveis para execução via ​ _npm​_. São eles:
+
 ● npm start - ​Inicia o servidor de desenvolvimento (sugestão: usar o
 _webpack-dev-server​_ )
+
 ● npm test​ - ​Executa o conjunto de testes disponível na aplicação
+
 ● npm build​ -​ Cria o ​ _bundle​_ para publicação
 
 ## Interface
@@ -27,7 +30,6 @@ Queremos ver as suas habilidades com CSS em ação, e portanto ​ **não é per
 uso de UI frameworks** (como Bootstrap ou ​Material-UI​). A utilização de
 _pre-processors_ e ​ _post-processors_ para CSS é liberada, desde que esteja
 completamente integrada com o Webpack.
-
 
 ## Funcionalidades
 
@@ -47,7 +49,9 @@ publicada.
 ### APIs HTTP
 
 Para obter os dados necessários, a aplicação deve utilizar as APIs listadas abaixo.
+
 ● Publicações: ​http://www.mocky.io/v2/5be5e3fa2f000082000fc3f
+
 ● Autores: ​http://www.mocky.io/v2/5be5e3ae2f00005b000fc3f
 
 ### Exemplos
@@ -56,10 +60,12 @@ Listamos alguns exemplos de blogs disponíveis na Internet que podem ser
 consultados. Os itens aqui listados devem ser utilizados apenas para fins de
 contextualização, e podem ou não conter todas as funcionalidades apresentadas
 como requisito do seu desafio.
-● The Clean Code Blog: https://blog.cleancoder.com
-● The JavaScript Playground: https://javascriptplayground.com
-● Code Simplicity: https://www.codesimplicity.com
 
+● The Clean Code Blog: https://blog.cleancoder.com
+
+● The JavaScript Playground: https://javascriptplayground.com
+
+● Code Simplicity: https://www.codesimplicity.com
 
 # Critérios de avaliação
 
@@ -76,5 +82,3 @@ scripts npm descritos acima (npm start e npm build).
 
 Deve ser entregue um arquivo compactado contendo todo o código fonte da
 aplicação através do endereço de e-mail pelo qual você recebeu esse desafio.
-
-
