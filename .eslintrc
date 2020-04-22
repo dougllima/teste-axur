@@ -26,6 +26,5 @@
       "Headers": true,
       "Request": true,
       "fetch": true
-    },
-    "parser": "babel-eslint"
+    }
   }
